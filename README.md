@@ -1,2 +1,1 @@
-# devops-end-to-end-ci-cd-aws
-End-to-End DevOps CI/CD pipeline using Terraform, Docker, Jenkins and AWS deployment.
+This project demonstrates a complete DevOps workflow including Infrastructure as Code, containerization, CI/CD automation, and AWS deployment.
